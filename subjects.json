@@ -1,0 +1,575 @@
+{
+  "classes": [
+    {
+      "name": "Class 9",
+      "streams": [
+        "General"
+      ],
+      "subjects": [
+        {
+          "name": "Science",
+          "chapters": [
+            {
+              "title": "Motion",
+              "assignments": [
+                "Numericals Set-1",
+                "Concept Qs"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Social Science",
+          "chapters": [
+            {
+              "title": "The French Revolution",
+              "assignments": [
+                "Worksheet A"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Math",
+          "chapters": [
+            {
+              "title": "Number Systems",
+              "assignments": [
+                "Practice 1"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "English",
+          "chapters": [
+            {
+              "title": "The Fun They Had",
+              "assignments": [
+                "Reading Qs"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Hindi",
+          "chapters": [
+            {
+              "title": "Doon Kaa Raaja",
+              "assignments": [
+                "Vyakaran"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Class 10",
+      "streams": [
+        "General"
+      ],
+      "subjects": [
+        {
+          "name": "Science",
+          "chapters": [
+            {
+              "title": "Chemical Reactions",
+              "assignments": [
+                "Balancing Eqns"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Social Science",
+          "chapters": [
+            {
+              "title": "Nationalism in India",
+              "assignments": [
+                "Map Work"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Math",
+          "chapters": [
+            {
+              "title": "Real Numbers",
+              "assignments": [
+                "Euclid Lemma"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "English",
+          "chapters": [
+            {
+              "title": "A Letter to God",
+              "assignments": [
+                "NCERT Qs"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Hindi",
+          "chapters": [
+            {
+              "title": "Khadya Sanskriti",
+              "assignments": [
+                "Upsarg-Pratyay"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Class 11 Science",
+      "streams": [
+        "Science"
+      ],
+      "subjects": [
+        {
+          "name": "Physics",
+          "chapters": [
+            {
+              "title": "Units & Measurement",
+              "assignments": [
+                "Derivations"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Chemistry",
+          "chapters": [
+            {
+              "title": "Some Basic Concepts",
+              "assignments": [
+                "Mole Concept"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Biology",
+          "chapters": [
+            {
+              "title": "Living World",
+              "assignments": [
+                "Key Terms"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Math",
+          "chapters": [
+            {
+              "title": "Sets",
+              "assignments": [
+                "Venn Diagrams"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "English",
+          "chapters": [
+            {
+              "title": "The Portrait of a Lady",
+              "assignments": [
+                "Summary Qs"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Hindi",
+          "chapters": [
+            {
+              "title": "Anuchched Lekhan",
+              "assignments": [
+                "Lekhan"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Class 12 Science",
+      "streams": [
+        "Science"
+      ],
+      "subjects": [
+        {
+          "name": "Physics",
+          "chapters": [
+            {
+              "title": "Electrostatics",
+              "assignments": [
+                "Numericals"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Chemistry",
+          "chapters": [
+            {
+              "title": "Solid State",
+              "assignments": [
+                "Defects"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Biology",
+          "chapters": [
+            {
+              "title": "Reproduction in Organisms",
+              "assignments": [
+                "Important Qs"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Math",
+          "chapters": [
+            {
+              "title": "Relations & Functions",
+              "assignments": [
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "English",
+          "chapters": [
+            {
+              "title": "The Third Level",
+              "assignments": [
+                "Theme Qs"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Hindi",
+          "chapters": [
+            {
+              "title": "Patrabhasha",
+              "assignments": [
+                "Vyakaran"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Class 11 Arts",
+      "streams": [
+        "Arts"
+      ],
+      "subjects": [
+        {
+          "name": "History",
+          "chapters": [
+            {
+              "title": "Early Societies",
+              "assignments": [
+                "Short Qs"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Political Science",
+          "chapters": [
+            {
+              "title": "Constitution",
+              "assignments": [
+                "Articles"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Sociology",
+          "chapters": [
+            {
+              "title": "Sociology & Society",
+              "assignments": [
+                "Key Concepts"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Geography",
+          "chapters": [
+            {
+              "title": "Physical Geography",
+              "assignments": [
+                "Map Qs"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "English",
+          "chapters": [
+            {
+              "title": "Comprehension",
+              "assignments": [
+                "Passages"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Hindi",
+          "chapters": [
+            {
+              "title": "Nibandh",
+              "assignments": [
+                "Anuchhed"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Class 12 Arts",
+      "streams": [
+        "Arts"
+      ],
+      "subjects": [
+        {
+          "name": "History",
+          "chapters": [
+            {
+              "title": "Bricks, Beads and Bones",
+              "assignments": [
+                "Short Qs"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Political Science",
+          "chapters": [
+            {
+              "title": "Cold War Era",
+              "assignments": [
+                "Timeline"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Sociology",
+          "chapters": [
+            {
+              "title": "Indian Society",
+              "assignments": [
+                "Notes"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Geography",
+          "chapters": [
+            {
+              "title": "Human Geography",
+              "assignments": [
+                "Definitions"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "English",
+          "chapters": [
+            {
+              "title": "Reading Skills",
+              "assignments": [
+                "Practice"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Hindi",
+          "chapters": [
+            {
+              "title": "Rekha Chitra",
+              "assignments": [
+                "Shabdavali"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Class 11 Commerce",
+      "streams": [
+        "Commerce"
+      ],
+      "subjects": [
+        {
+          "name": "Accountancy",
+          "chapters": [
+            {
+              "title": "Introduction",
+              "assignments": [
+                "Journal Entries"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Economics",
+          "chapters": [
+            {
+              "title": "Microeconomics",
+              "assignments": [
+                "Graphs"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Business Studies",
+          "chapters": [
+            {
+              "title": "Nature and Purpose",
+              "assignments": [
+                "Case Study"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "English",
+          "chapters": [
+            {
+              "title": "Business Letters",
+              "assignments": [
+                "Format"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Optional Hindi",
+          "chapters": [
+            {
+              "title": "Vyavasaayik Hindi",
+              "assignments": [
+                "Paribhashik Shabd"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Computer Science",
+          "chapters": [
+            {
+              "title": "Python Basics",
+              "assignments": [
+                "Programs"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Class 12 Commerce",
+      "streams": [
+        "Commerce"
+      ],
+      "subjects": [
+        {
+          "name": "Accountancy",
+          "chapters": [
+            {
+              "title": "Partnership",
+              "assignments": [
+                "Goodwill"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Economics",
+          "chapters": [
+            {
+              "title": "Macroeconomics",
+              "assignments": [
+                "National Income"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Business Studies",
+          "chapters": [
+            {
+              "title": "Planning",
+              "assignments": [
+                "Case Study"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "English",
+          "chapters": [
+            {
+              "title": "Reports",
+              "assignments": [
+                "Writing"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Optional Hindi",
+          "chapters": [
+            {
+              "title": "Patra Lekhan",
+              "assignments": [
+                "Official Letters"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Computer Science",
+          "chapters": [
+            {
+              "title": "Data Structures",
+              "assignments": [
+                "Stacks"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
