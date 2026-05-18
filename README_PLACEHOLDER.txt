@@ -1,1 +1,1 @@
-iOS project will be generated/managed by Flutter. Run `flutter create .` if missing.
+Add your existing android folder here or create via `flutter create .` in this project, then configure signing as per README.
